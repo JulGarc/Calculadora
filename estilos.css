@@ -1,0 +1,22 @@
+
+.Pantalla input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.numeros input {
+    width: 30%;
+    padding: 10px;
+    font-size: 16px;
+    
+}
+
+.btn-group button {
+    margin-right: 10px; 
+}
+
+
+.container {
+    text-align: center;
+}
